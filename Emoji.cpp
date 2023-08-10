@@ -7,7 +7,7 @@ int main()
     int gr = DETECT, gm;
 
 
-    initgraph(&gr, &gm, "C:\\Turboc3\\BGI");
+    initgraph(&gr, &gm, " ");
 
     setcolor(YELLOW);
 
